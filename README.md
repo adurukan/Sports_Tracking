@@ -13,3 +13,5 @@ The purpose of this project is to be able load any type of sports videos that is
 4 - Than select the left-top corner from the field by left mouse button and than select the right-bottom corner from the field using the right mouse button.
 
 5 - Select the bounding boxes covering the players and click on space/enter button.
+
+![](tutorial.gif)
